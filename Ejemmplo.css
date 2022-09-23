@@ -1,0 +1,31 @@
+.shadow-lg{
+    margin-top: 30%;
+    width: 330px;
+    margin-left: 40%;
+    border-radius: 2%;
+    padding: 12px;
+    
+}
+
+.title{
+    text-align: center;
+}
+
+.mb-3{
+    width: 300px;
+}
+.btn:hover{
+    background-color: green;
+    background: red;
+}
+.form-check{
+    text-align: center;
+    padding-right: 30px;
+}
+.icono{
+text-align: center;
+}
+.imge{
+width: 45px;
+margin-top: 4px;
+}
